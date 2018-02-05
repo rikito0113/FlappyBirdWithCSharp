@@ -1,0 +1,10 @@
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\bin\Debug\flappyBirdRikito.exe.config
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\bin\Debug\flappyBirdRikito.exe
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\bin\Debug\flappyBirdRikito.pdb
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\obj\Debug\flappyBirdRikito.csprojResolveAssemblyReference.cache
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\obj\Debug\flappyBirdRikito.Form1.resources
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\obj\Debug\flappyBirdRikito.Properties.Resources.resources
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\obj\Debug\flappyBirdRikito.csproj.GenerateResource.Cache
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\obj\Debug\flappyBirdRikito.csproj.CoreCompileInputs.cache
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\obj\Debug\flappyBirdRikito.exe
+c:\users\kimki\documents\visual studio 2017\Projects\flappyBirdRikito\flappyBirdRikito\obj\Debug\flappyBirdRikito.pdb
